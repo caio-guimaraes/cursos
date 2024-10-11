@@ -1,0 +1,5 @@
+1. [O que é Data Science: conceitos, aplicações práticas e um bate papo sobre carreira](https://www.alura.com.br/artigos/o-que-e-data-science)
+2. [Dicas de como escolher o tipo de visualização de dados para sua análise](https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados)
+3. [Desvendando a Regressão Linear](https://www.alura.com.br/artigos/desvendando-a-regressao-linear)
+4. [Portfólio em dados: como reunir seus projetos de Data Science](https://www.alura.com.br/artigos/portfolio-em-dados)
+5. [Guia de carreira DATA SCIENCE](https://www.youtube.com/watch?v=7KhaiCC3fJQ&ab_channel=Alura)
